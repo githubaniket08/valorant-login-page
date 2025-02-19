@@ -13,11 +13,6 @@ You can view the project live by clicking the link below:
 - ✅ CSS
 - ✅ JavaScript
 
-### 📷 Project Screenshots
+### 📷 Project available for both Desktop and Mobile Resolution
 
-### 🖥️ Desktop Resolution
-![Computer Screen](Project Screenshots/Screen.png)
-
-### 📱 Mobile Resolution
-![Mobile Screen]()
 
