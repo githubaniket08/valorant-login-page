@@ -17,5 +17,5 @@ You can view the project live by clicking the link below:
 
 ### 🖥️ Desktop Resolution: [Computer Screen](https://github.com/githubaniket08/valorant-login-page/blob/master/Project%20Screenshots/Screen.png)
 
-### 📱 Mobile Resolution : [Mobile Screen](https://github.com/githubaniket08/valorant-login-page/blob/master/Project%20Screenshots/Screen%20Mobile.png)
+### 📱 Mobile Resolution : [Mobile Screen](https://github.com/githubaniket08/valorant-login-page/blob/master/Project%20Screenshots/Screen%20mobile.png)
 
