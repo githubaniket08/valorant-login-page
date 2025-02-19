@@ -1,11 +1,11 @@
-# Valorant Login Screen
+## Valorant Login Screen
 
 This project is a clone of the Valorant login interface.
 
-## 👀 View the Project Online
+## View the Project Online
 
 You can view the project live by clicking the link below:
-[Valorant Login Screen](Link)
+[Valorant Login Screen](https://githubaniket08.github.io/valorant-login-page/)
 
 ## 🛠️ Technologies Used
 
@@ -13,11 +13,11 @@ You can view the project live by clicking the link below:
 - ✅ CSS
 - ✅ JavaScript
 
-## 📷 Project Screenshots
+### 📷 Project Screenshots
 
 ### 🖥️ Desktop Resolution
-![Computer Screen](Link)
+![Computer Screen](Project Screenshots/Screen.png)
 
 ### 📱 Mobile Resolution
-![Mobile Screen](Link)
+![Mobile Screen]()
 
